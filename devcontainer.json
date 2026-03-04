@@ -10,7 +10,7 @@
             "onAutoForward": "openBrowser"
         }
     },
-    "postCreateCommand": "pip install streamlit",
+    "updateContentCommand": "pip install streamlit",
     "customizations": {
         "vscode": {
             "extensions": [
